@@ -1,4 +1,4 @@
-Module 20 Challenge Work
+Module 21 Challenge Work
 
 This challenge work consists of KaseiCoin and its crowdsale implementation
 The steps for this Challenge are divided into the following sections:
@@ -13,14 +13,3 @@ Ganache and Metamask
 ## Usage
 To run the file, deploy the file on a test network and provide with
 an initial ETH/Wei as a deposit amount, along with Token Name and Symbol
-
-## Evaluation Evidence
-
-KaseiCoin compilation evidence
-![KaseiCoin Compilation](KaseiCoin_compilation.gif)
-
-KeseiCoinCrowdsale compilation evidence
-![KaseiCoinCrowdsale Compilation](./KaseiCoinCrowdsale_compilation.gif)
-
-KeseiCoinCrowdsaleDeployer compilation evidence
-![KaseiCoinCrowdsale Deployer Compilation](./KaseiCoinCrowdsaleDeployer_compilation.gif)
